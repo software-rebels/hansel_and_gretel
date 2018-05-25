@@ -14,7 +14,7 @@ Tools for detecting and removing anti-patterns in Travis CI specification (``.tr
 
 This work is published at the **IEEE Transactions on Software Engineering (TSE)** journal with the title *'Use and Misuse of Continuous Integration Features: An Empirical Study of Projects that (mis)use Travis CI'*.
 
-- `More about this work <http://rebels.ece.mcgill.ca/journalpaper/2018/05/15/use-and-misuse-of-continuous-integration-features.html/>`_
+- `More about this work <http://rebels.ece.mcgill.ca/journalpaper/2018/05/15/use-and-misuse-of-continuous-integration-features.html>`_
 - `Link to the paper in the IEEE library <https://doi.org/10.1109/TSE.2018.2838131>`_
 
 Quick Start
