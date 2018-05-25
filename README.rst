@@ -1,6 +1,9 @@
 Hansel and Gretel
 =================
 
+.. image:: https://secure.travis-ci.org/software-rebels/hansel_and_gretel.png
+    :target: http://travis-ci.org/software-rebels/hansel_and_gretel
+
 Tools for detecting and removing anti-patterns in Travis CI specification (``.travis.yml``) files.
 
 **Hansel** detects following four anti-patterns:
