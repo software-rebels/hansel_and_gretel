@@ -1,4 +1,4 @@
 bashlex==0.12
 enum34==1.1.6
-pyyaml ~> 4.2b1
+pyyaml>=4.2b1
 ruamel.yaml==0.15.37
