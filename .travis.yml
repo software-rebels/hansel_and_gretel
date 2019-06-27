@@ -3,6 +3,6 @@ python:
   - "3.5"
 cache: pip
 install:
-  - strace pip install -r requirements.txt
+  - strace -r pip install -r requirements.txt
 script:
-  - strace python -m unittest discover -v
+  - strace -r python -m unittest discover -v
