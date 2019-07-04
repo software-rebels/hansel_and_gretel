@@ -5,5 +5,7 @@ cache: pip
 install:
   - echo "Installing dependencies!"
   - pip install -r requirements.txt
+  - export MOOD="happy"
+  - echo $MOOD
 script:
   - python -m unittest discover -v
