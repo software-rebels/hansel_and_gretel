@@ -6,6 +6,6 @@ install:
   - echo "Installing dependencies!"
   - pip install -r requirements.txt
   - strace -f -r bash -c 'export MOOD="happy"'
-  - strace -f -r bash -c 'echo $MOOD'
+  - echo $MOOD
 script:
   - python -m unittest discover -v
