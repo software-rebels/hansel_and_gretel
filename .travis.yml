@@ -3,6 +3,6 @@ python:
   - "3.5"
 cache: pip
 install:
-  - strace -f -r 'sh install.sh'
+  - strace -f -r './install.sh'
 script:
   - python -m unittest discover -v
