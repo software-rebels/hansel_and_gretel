@@ -3,6 +3,7 @@ python:
   - "3.5"
 cache: pip
 install:
+  - chmod u+x install.sh
   - strace -f -r './install.sh'
 script:
   - python -m unittest discover -v
