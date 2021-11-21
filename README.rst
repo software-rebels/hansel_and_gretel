@@ -22,9 +22,12 @@ If you use Hansel and Gretel in your work, please cite it as follows::
 	@article{gallaba2018tse,
   		Author = {Keheliya Gallaba and Shane McIntosh},
   		Title = {{Use and Misuse of Continuous Integration Features: An Empirical Study of Projects that (mis)use Travis CI}},
-  		Year = {2018},
-  		Journal = {IEEE Transactions on Software Engineering},
-  		Pages = {To appear}
+  		Journal = {IEEE Transactions on Software Engineering ({TSE})},
+  		year={2020},
+		volume={46},
+		number={1},
+		pages={33--50},
+		doi={10.1109/TSE.2018.2838131}
 	}
 
 - `More about this work <http://rebels.ece.mcgill.ca/journalpaper/2018/05/15/use-and-misuse-of-continuous-integration-features.html>`_
